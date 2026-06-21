@@ -115,7 +115,8 @@ Below are some popular categories and examples of how AI agents can make an impa
 
 - **Ads AI Agents** - Automate and optimize ad campaigns using intelligent AI agents.  
 - **Agentic IDE** - Integrated Development Environments tailored for building and managing AI agents.  
-- **AI Agent Management Platform** - Centralized tools for deploying, monitoring, and managing AI agents.  
+- **AI Agent Management Platform** - Centralized tools for deploying, monitoring, and managing AI agents.
+  - [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Free open-source monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support. [[MIT License](https://github.com/flik2002/openclaw-monitor/blob/main/LICENSE)]
 - **AI Agent Memory** - Enable agents to retain context and learn over time for improved interactions.  
 - **AI Agents Frameworks** - Frameworks to simplify the development of robust AI agent systems.  
 - **AI Agents Platform** - Platforms offering end-to-end solutions for creating and deploying AI agents.  
